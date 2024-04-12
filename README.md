@@ -23,6 +23,7 @@ Perform inference: Use the trained model to perform segmentation on new drone im
 # RESULTS:-
 <img width="235" alt="image" src="https://github.com/vaishali18lalit/UCC_AI_QUEST_2024/assets/148451703/e773ccdf-b4c6-4d91-996f-0fd2445b6dea">
 Fig 4.1: Performance vs. Model Efficiency
+
 ## Mean IOU (Intersection over Union) Scores:
 Validation Set: 0.881
 Testing Set: 0.8286
