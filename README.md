@@ -1,4 +1,4 @@
-# UCC_AI_QUEST_2024
+<img width="235" alt="image" src="https://github.com/vaishali18lalit/UCC_AI_QUEST_2024/assets/148451703/e773ccdf-b4c6-4d91-996f-0fd2445b6dea"># UCC_AI_QUEST_2024
 # Drone Image Segmentation for Irish Natural Places
 ## Overview
 This project focuses on performing image segmentation on images captured by drones over various natural landscapes in Ireland. Image segmentation is a computer vision technique used to partition an image into multiple segments or regions based on certain characteristics, such as colors, textures, or edges. In this project, we aim to segment images to identify different objects or features in the landscape, such as vegetation, water bodies, buildings, and roads.
@@ -20,3 +20,13 @@ Train the Segformer model: Train the Segformer model on the annotated dataset to
 Evaluate the model: Evaluate the trained model on a separate validation or test set to assess its performance in segmenting unseen images.
 
 Perform inference: Use the trained model to perform segmentation on new drone images to identify and visualize different elements within the landscape.
+# RESULTS:-
+
+## Mean IOU (Intersection over Union) Scores:
+Validation Set: 0.881
+Testing Set: 0.8286
+
+
+
+Fig 4.1: Performance vs. Model Efficiency
+
